@@ -24,6 +24,7 @@ A simple **client–server chat application** built using **Java Sockets** and *
 ---
 
 ## 📁 Project Structure
+```
 ChatApplication/
 │
 ├── server/
@@ -34,6 +35,7 @@ ChatApplication/
 │ └── ChatClient.java # Client application
 │
 └── README.md
+```
 
 
 ---
