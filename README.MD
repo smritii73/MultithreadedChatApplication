@@ -7,7 +7,6 @@ It allows multiple clients to connect to a single server and communicate with ea
 Each connected client is handled using a separate thread, enabling concurrent message exchange without blocking.
 
 🎯 Objectives
-
 Implement client–server communication using TCP sockets
 
 Handle multiple users simultaneously using multithreading
